@@ -11,7 +11,7 @@ To add Horizon to your guild is very simple. You will need to have administratio
 Horizon has a range of different features, these include but are not limited to: Audio streaming (currently limited to youtube urls as of the time of writing this and will be updated soon *09.16.17*), fun games to keep your guild's chat alive and some basic commands for general use. *Some* of the commands included with Horizon:
 
 * `help` Sends a message with a list of all of the current commands and the description.
-* `info` Gives some infomation regarding Horizon.
+* `info` Displays info on the mentioned user.
 * `status` Retrives general status infomation about Horizon (Uptime, Amount of guilds, Active Shards etc.).
 * `8ball` Ask the mysterious 8ball a question and get a response.
 * `rps` Play a game of rock paper scissors with the mentioned person.
