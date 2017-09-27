@@ -19,3 +19,12 @@ Horizon has a range of different features, these include but are not limited to:
 * `play` The url after the space will be searched for by the youtube API and added to the guild music queue.
 * `pause` Pause the current audio playback.
 * `skip` Skips the currently playing song to the next, if it is the last song the playback will conclude.
+
+### How to setup
+----------
+Horizon is easy and quick to setup.
+1) Go to https://discordapp.com/developers/applications/me and get your bots token by clicking on the app, scroll down and click *click to reveal* next to token and copy that
+2) Open `config.json` in the main folder of `Horizon-v2` and paste the token from step 1 in between the apostrophes and customise the prefix if needed (Default is >)
+3) Make sure you have the latest version of Node.js installed.
+4) Open Command Prompt and cd to the directory where you have Horizon stored
+5) Run the Horizon.bat file and the bot should start running. You know have a working bot!
